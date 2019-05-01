@@ -1,0 +1,19 @@
+Different states:
+Start
+Interested 
+Unsure
+Flattered
+Curious
+Indifferent
+Amazed
+Annoyed
+Embarassed
+Talkative
+Nearly Infatuated
+Angry
+Sassy
+Excited
+Infatuated
+Head over heels
+Win
+Lose

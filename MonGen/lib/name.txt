@@ -1,0 +1,15 @@
+Alien
+Spook
+Ghoul
+Troll
+Ork
+Gremlin
+Chupacabra
+Manticore
+Banshee
+Nessie
+Demon
+Golem
+Cereberus
+Siren
+Basilisk
